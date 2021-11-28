@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/layout/insert.xml" value="0.25364583333333335" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/layout/listview_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/menu/contextmenu.xml" value="0.21354166666666666" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/menu/menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/menu/menu_layout.xml" value="0.21458333333333332" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/menu/menuq.xml" value="0.25364583333333335" />
+        <entry key="..\:/tools/Android/AndroidStudioProjects/WordBook/app/src/main/res/menu/optionsmenu.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
